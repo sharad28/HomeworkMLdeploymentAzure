@@ -1,0 +1,4 @@
+2021-09-07 23:18:56,285:lg:INFO:Reading CSV file
+2021-09-07 23:18:56,333:lg:INFO:Droping unnecceasry data
+2021-09-07 23:18:56,352:lg:INFO:Score of linear regression model is 0.7771375537943861
+2021-09-07 23:18:56,624:lg:INFO:Score of ElasticNet model is 0.7771205880747654
